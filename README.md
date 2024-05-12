@@ -1,0 +1,2 @@
+# CursoAlura
+Curso AI Gemini
